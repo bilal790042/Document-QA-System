@@ -1,0 +1,11 @@
+context: 
+{context}
+
+Question:
+{question}
+
+Instructions:
+Use only the context above.
+give a clear answer.
+if unsure say you dont know.
+include source reference when possible.
